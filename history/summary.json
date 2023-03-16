@@ -4,18 +4,20 @@
     "url": "https://parlament.samorzad.pwr.edu.pl",
     "icon": "https://icons.duckduckgo.com/ip3/parlament.samorzad.pwr.edu.pl.ico",
     "slug": "system-parlamentarny",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1456,
-    "timeDay": 1358,
-    "timeWeek": 1694,
-    "timeMonth": 1456,
-    "timeYear": 1456,
-    "dailyMinutesDown": {}
+    "time": 1431,
+    "timeDay": 1074,
+    "timeWeek": 1636,
+    "timeMonth": 1431,
+    "timeYear": 1431,
+    "dailyMinutesDown": {
+      "2023-03-16": 0
+    }
   },
   {
     "name": "System Parlamentarny API",
