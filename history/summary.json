@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/parlament.samorzad.pwr.edu.pl.ico",
     "slug": "system-parlamentarny",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1568,
     "timeDay": 2437,
     "timeWeek": 1964,
     "timeMonth": 1568,
     "timeYear": 1568,
     "dailyMinutesDown": {
-      "2023-03-30": 0
+      "2023-03-30": 3
     }
   },
   {
