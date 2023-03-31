@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/parlament.samorzad.pwr.edu.pl.ico",
     "slug": "system-parlamentarny",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1560,
-    "timeDay": 2091,
-    "timeWeek": 1884,
-    "timeMonth": 1560,
-    "timeYear": 1560,
+    "uptime": "99.93%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1565,
+    "timeDay": 1519,
+    "timeWeek": 1656,
+    "timeMonth": 1565,
+    "timeYear": 1565,
     "dailyMinutesDown": {
-      "2023-03-30": 32
+      "2023-03-30": 25
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 980,
-    "timeDay": 980,
-    "timeWeek": 998,
-    "timeMonth": 980,
-    "timeYear": 980,
+    "time": 1000,
+    "timeDay": 1511,
+    "timeWeek": 1088,
+    "timeMonth": 1000,
+    "timeYear": 1000,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 674,
-    "timeWeek": 794,
-    "timeMonth": 750,
-    "timeYear": 750,
+    "time": 747,
+    "timeDay": 666,
+    "timeWeek": 804,
+    "timeMonth": 747,
+    "timeYear": 747,
     "dailyMinutesDown": {}
   }
 ]
