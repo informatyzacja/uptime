@@ -6,15 +6,15 @@
     "slug": "system-parlamentarny",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.49%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1565,
-    "timeDay": 1519,
-    "timeWeek": 1656,
-    "timeMonth": 1565,
-    "timeYear": 1565,
+    "time": 1576,
+    "timeDay": 2044,
+    "timeWeek": 1709,
+    "timeMonth": 1576,
+    "timeYear": 1576,
     "dailyMinutesDown": {
       "2023-03-30": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1000,
-    "timeDay": 1511,
-    "timeWeek": 1088,
-    "timeMonth": 1000,
-    "timeYear": 1000,
+    "time": 1003,
+    "timeDay": 1087,
+    "timeWeek": 1147,
+    "timeMonth": 1003,
+    "timeYear": 1003,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 666,
-    "timeWeek": 804,
-    "timeMonth": 747,
-    "timeYear": 747,
+    "time": 770,
+    "timeDay": 1372,
+    "timeWeek": 904,
+    "timeMonth": 770,
+    "timeYear": 770,
     "dailyMinutesDown": {}
   }
 ]
