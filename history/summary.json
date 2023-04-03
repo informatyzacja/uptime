@@ -24,18 +24,20 @@
     "url": "$SYSTEM_PARLAMENTARNY_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "system-parlamentarny-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1013,
-    "timeDay": 689,
-    "timeWeek": 1140,
-    "timeMonth": 1013,
-    "timeYear": 1013,
-    "dailyMinutesDown": {}
+    "time": 1009,
+    "timeDay": 788,
+    "timeWeek": 1108,
+    "timeMonth": 1009,
+    "timeYear": 1009,
+    "dailyMinutesDown": {
+      "2023-04-03": 0
+    }
   },
   {
     "name": "System Wyborczy",
