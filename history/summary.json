@@ -24,19 +24,19 @@
     "url": "$SYSTEM_PARLAMENTARNY_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "system-parlamentarny-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1009,
-    "timeDay": 788,
-    "timeWeek": 1108,
-    "timeMonth": 1009,
-    "timeYear": 1009,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 992,
+    "timeDay": 686,
+    "timeWeek": 1038,
+    "timeMonth": 992,
+    "timeYear": 992,
     "dailyMinutesDown": {
-      "2023-04-03": 0
+      "2023-04-03": 8
     }
   },
   {
