@@ -10,11 +10,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1571,
-    "timeDay": 1136,
-    "timeWeek": 1741,
-    "timeMonth": 1571,
-    "timeYear": 1571,
+    "time": 1565,
+    "timeDay": 1313,
+    "timeWeek": 1709,
+    "timeMonth": 1565,
+    "timeYear": 1565,
     "dailyMinutesDown": {
       "2023-03-30": 25
     }
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "system-parlamentarny-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 992,
-    "timeDay": 686,
-    "timeWeek": 1038,
-    "timeMonth": 992,
-    "timeYear": 992,
-    "dailyMinutesDown": {
-      "2023-04-03": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 990,
+    "timeDay": 763,
+    "timeWeek": 1029,
+    "timeMonth": 990,
+    "timeYear": 990,
+    "dailyMinutesDown": {}
   },
   {
     "name": "System Wyborczy",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 961,
-    "timeWeek": 1012,
-    "timeMonth": 788,
-    "timeYear": 788,
+    "time": 800,
+    "timeDay": 1158,
+    "timeWeek": 1020,
+    "timeMonth": 800,
+    "timeYear": 800,
     "dailyMinutesDown": {}
   }
 ]
