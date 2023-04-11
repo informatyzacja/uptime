@@ -4,10 +4,10 @@
     "url": "https://parlament.samorzad.pwr.edu.pl",
     "icon": "https://icons.duckduckgo.com/ip3/parlament.samorzad.pwr.edu.pl.ico",
     "slug": "system-parlamentarny",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
     "time": 1540,
@@ -16,6 +16,7 @@
     "timeMonth": 1612,
     "timeYear": 1540,
     "dailyMinutesDown": {
+      "2023-04-11": 1,
       "2023-03-30": 25
     }
   },
@@ -24,9 +25,9 @@
     "url": "$SYSTEM_PARLAMENTARNY_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "system-parlamentarny-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 1023,
     "timeMonth": 974,
     "timeYear": 996,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-11": 0
+    }
   },
   {
     "name": "System Wyborczy",
