@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/parlament.samorzad.pwr.edu.pl.ico",
     "slug": "system-parlamentarny",
     "status": "up",
-    "uptime": "97.48%",
+    "uptime": "97.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "96.11%",
-    "uptimeYear": "97.48%",
+    "uptimeYear": "97.53%",
     "time": 1474,
     "timeDay": 1153,
     "timeWeek": 1170,
@@ -28,11 +28,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "system-parlamentarny-api",
     "status": "up",
-    "uptime": "97.54%",
+    "uptime": "97.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.20%",
-    "uptimeYear": "97.54%",
+    "uptimeYear": "97.59%",
     "time": 981,
     "timeDay": 604,
     "timeWeek": 822,
@@ -48,9 +48,9 @@
     "url": "https://wybory.samorzad.pwr.edu.pl",
     "icon": "https://icons.duckduckgo.com/ip3/wybory.samorzad.pwr.edu.pl.ico",
     "slug": "system-wyborczy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,6 +59,8 @@
     "timeWeek": 909,
     "timeMonth": 892,
     "timeYear": 835,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-22": 0
+    }
   }
 ]
