@@ -28,11 +28,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "system-parlamentarny-api",
     "status": "up",
-    "uptime": "97.59%",
+    "uptime": "97.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.20%",
-    "uptimeYear": "97.59%",
+    "uptimeYear": "97.60%",
     "time": 980,
     "timeDay": 955,
     "timeWeek": 857,
@@ -49,18 +49,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wybory.samorzad.pwr.edu.pl.ico",
     "slug": "system-wyborczy",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "96.02%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.93%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.93%",
     "time": 1097,
     "timeDay": 7368,
     "timeWeek": 2541,
     "timeMonth": 1301,
     "timeYear": 1097,
     "dailyMinutesDown": {
-      "2023-04-22": 58
+      "2023-04-22": 48
     }
   }
 ]
