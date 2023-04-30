@@ -8,6 +8,8 @@ sites:
     url: $SYSTEM_PARLAMENTARNY_API
   - name: System Wyborczy
     url: https://wybory.samorzad.pwr.edu.pl
+  - name: Strona Organizacji Studenckich
+    url: https://aktywni.pwr.edu.pl
 
 assignees:
   - Omikorin
