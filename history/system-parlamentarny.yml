@@ -1,7 +1,7 @@
 url: https://parlament.samorzad.pwr.edu.pl
-status: down
-code: 502
-responseTime: 1027
-lastUpdated: 2023-05-20T14:09:25.163Z
+status: up
+code: 200
+responseTime: 19400
+lastUpdated: 2023-05-20T14:50:25.934Z
 startTime: Sun Mar 05 2023 23:01:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
