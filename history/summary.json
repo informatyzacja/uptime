@@ -61,9 +61,9 @@
     "url": "https://wybory.samorzad.pwr.edu.pl",
     "icon": "https://icons.duckduckgo.com/ip3/wybory.samorzad.pwr.edu.pl.ico",
     "slug": "system-wyborczy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -73,6 +73,7 @@
     "timeMonth": 983,
     "timeYear": 1004,
     "dailyMinutesDown": {
+      "2023-07-18": 0,
       "2023-04-22": 48
     }
   },
@@ -82,11 +83,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aktywni.pwr.edu.pl.ico",
     "slug": "strona-organizacji-studenckich",
     "status": "up",
-    "uptime": "97.92%",
+    "uptime": "97.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.92%",
+    "uptimeYear": "97.93%",
     "time": 1663,
     "timeDay": 2011,
     "timeWeek": 1582,
