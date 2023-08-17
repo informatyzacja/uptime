@@ -1,7 +1,7 @@
 url: $SYSTEM_PARLAMENTARNY_API
-status: up
-code: 200
-responseTime: 597
-lastUpdated: 2023-08-16T23:01:42.835Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-08-17T08:57:54.442Z
 startTime: Sun Mar 05 2023 23:01:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
